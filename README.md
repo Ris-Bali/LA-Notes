@@ -8,3 +8,5 @@ Handwritten notes of  3b1b and Gilbert Strang's Youtube playlists.
 
 ## Gilbert Strang
 #### 1) Geometric Representation of Vectors
+#### 2) Elimination 
+#### 3) Matrix Multiplication and Inverse
